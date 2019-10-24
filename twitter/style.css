@@ -1,0 +1,29 @@
+.card-image {
+	margin-top: -0.2em;
+	margin-right: 0.5em;
+    width: 15%;
+    border-radius: calc(.25rem - 1px);
+}
+.bord{
+	border-top-left-radius: 0.5rem;
+	border-top-right-radius: 0.5rem;
+	background-color: lightgrey; 
+	border-bottom: 1px solid black;
+	margin: 0;
+}
+.graun{
+	background-color: lightgrey;
+	border-bottom: 1px solid black;
+}
+.graun p{
+	margin: 0;
+}
+.borde{
+	background-color: lightgrey; 
+	border-bottom-left-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+	margin: 0;
+}
+.bor{
+	border: 1px solid black;
+}
